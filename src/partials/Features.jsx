@@ -8,8 +8,6 @@ import AnesthesiaMachine from '../images/anasthesiamachine.png'
 import Patient from '../images/patient.png'
 import VitalSignsImage from '../images/vitalsigns.png'
 import VitalSignsDisplay from '../images/patient-vitals-display.png';
-import FeaturesBg from '../images/features-bg.png';
-import FeaturesElement from '../images/features-element.png';
 
 import PrepareMed from '../images/preparemedication.png'
 import MedEffects from '../images/medicineeffects.png'
