@@ -3,7 +3,7 @@ import postcss from './postcss.config.js'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base:"/chiron-site/",
+  base:"https://calben.github.io/chiron-site/",
   define: {
     'process.env': process.env
   },
